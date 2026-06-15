@@ -31,7 +31,7 @@ I'm passionate about technology and enjoy learning by building. From programming
 - Model Optimization
 - Data Visualization
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ## House Price Prediction
 
