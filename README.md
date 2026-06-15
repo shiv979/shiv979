@@ -31,7 +31,7 @@ I'm passionate about technology and enjoy learning by building. From programming
 - Model Optimization
 - Data Visualization
 
-##  Featured Projects
+##  Featured Projects:
 
 ## House Price Prediction
 
@@ -45,10 +45,12 @@ Exploring predictive modeling, evaluation metrics, and the fundamentals of machi
 
 Building responsive and user-friendly web applications while strengthening front-end development skills.
 
+
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv979&layout=compact&theme=tokyonight)
-## What I'm Working Towards
+
+## What I'm Working Towards:
 
 Building impactful projects that solve real-world problems
 Strengthening my understanding of software development and AI
