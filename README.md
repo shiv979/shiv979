@@ -47,8 +47,6 @@ Building responsive and user-friendly web applications while strengthening front
 
 ## 📊 GitHub Stats
 
-![Shivali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv979&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv979&layout=compact&theme=tokyonight)
 ## What I'm Working Towards
 
