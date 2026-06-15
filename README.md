@@ -2,7 +2,7 @@
 
 🎓 MCA Student 
 
-I'm passionate about technology and enjoy learning by building. Whether it's exploring machine learning, developing web applications, or experimenting with new ideas, I'm always looking for opportunities to grow my skills and create meaningful projects.
+I'm passionate about technology and enjoy learning by building. From programming and software development to AI, machine learning, and emerging technologies, I'm always looking for opportunities to grow my skills and create meaningful projects.
 
 ## 💻 Tech Stack
 
@@ -10,6 +10,7 @@ I'm passionate about technology and enjoy learning by building. Whether it's exp
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
